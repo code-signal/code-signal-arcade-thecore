@@ -1,0 +1,1 @@
+const solution = (n, m) => m - m % n;

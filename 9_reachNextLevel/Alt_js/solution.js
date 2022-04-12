@@ -1,0 +1,1 @@
+const solution = (experience, threshold, reward) => experience + reward >= threshold;
